@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on:Pythons vast libraries
+<br>👯 I’m looking to collaborate on:anything related to python<br>
+🤝 I’m looking for help with:getting an internship<br>
+🌱 I’m currently learning:aws and databases<br>
+💬 Ask me about:anuthing about bengaluru🛺<br>
+⚡ Fun fact:Im still 17
 
 
 ## 🌐 Socials:
