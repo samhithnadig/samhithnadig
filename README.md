@@ -4,7 +4,7 @@
 🤝 I’m looking for help with:getting an internship<br>
 🌱 I’m currently learning:aws and databases<br>
 💬 Ask me about:anything about bengaluru🛺<br>
-⚡ Fun fact:Im still 17
+
 
 
 ## 🌐 Socials:
