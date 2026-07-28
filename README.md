@@ -2,8 +2,7 @@
 🤝 I’m looking for help with:getting an internship<br>
 🌱 I’m currently learning:aws and databases<br>
 💬 Ask me about:anything about bengaluru🛺<br>
-⚡ Fun fact:Im still 17
-
+📧 email:samhithnadig@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samhithnadig) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/samhithnadig) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samhithnadig@gmail.com) 
