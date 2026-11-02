@@ -17,8 +17,8 @@ First-year CS student (electronics background) in Bengaluru. I build things end 
 
 | Project | What it is | Stack |
 |---|---|---|
-| [log-diagnostics-mcp](https://github.com/samhithnadig/REPO_NAME) | MCP server that diagnoses failed log submissions | Python, MCP |
-| [video-clipper](https://github.com/samhithnadig/REPO_NAME) | Video clipping tool | REPO_STACK |
+| [log-diagnostics-mcp](https://github.com/samhithnadig/Rarity-Gated-LLM-Routing-for-Automated-Log-Diagnostics) | MCP server that diagnoses failed log submissions | Python, MCP |
+| [video-clipper]([https://github.com/samhithnadig/REPO_NAME](https://github.com/samhithnadig/solicio)) | Video clipping tool | REPO_STACK |
 
 ## Toolbox
 
