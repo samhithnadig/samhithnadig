@@ -28,5 +28,5 @@ First-year CS student (electronics background) in Bengaluru. I build things end 
 
 ## Find me
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-profile-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/REPLACE_ME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/REPLACE_ME)
+[![Kaggle](https://img.shields.io/badge/Kaggle-profile-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/samhithnadig)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samhithnadig)
