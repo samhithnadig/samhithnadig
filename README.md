@@ -1,6 +1,6 @@
 <!-- Animated generative-art header -->
 <p align="center">
-  <img src="./pattern.png" width="100%" alt="Geometric pattern" />
+  <img src="./Abstract%20Chevron%20Mosaic%20in%20Navy%20and%20Orange.png" width="100%" alt="Navy and orange geometric mosaic" />
 </p>
 
 
@@ -19,7 +19,6 @@ First-year CS student (electronics background) in Bengaluru. I build things end 
 | Project | What it is | Stack |
 |---|---|---|
 | [log-diagnostics-mcp](https://github.com/samhithnadig/REPO_NAME) | MCP server that diagnoses failed log submissions | Python, MCP |
-| [qr-attendance](https://github.com/samhithnadig/REPO_NAME) | QR-based school attendance with geofencing and row-level security | Supabase, HTML, Tailwind |
 | [video-clipper](https://github.com/samhithnadig/REPO_NAME) | Video clipping tool | REPO_STACK |
 
 ## Toolbox
