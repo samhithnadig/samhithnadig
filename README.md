@@ -1,11 +1,13 @@
 <!-- Animated generative-art header -->
 
 <p align="center">
-  <a href="YOUR_CODEPEN_URL">
-    <img src="assets/doodle.gif" width="100%" alt="Generative animated doodle" />
-  </a>
+  <img
+    src="<img width="1637" height="608" alt="image" src="https://github.com/user-attachments/assets/9a624c5c-1f7d-4c4d-9c95-ed03a2ac4866" />
+"
+    width="100%"
+    alt="Generative CSS doodle banner"
+  />
 </p>
-
 
 
 # Hi, I'm Samhith 👋
