@@ -1,8 +1,7 @@
 <!-- Animated generative-art header -->
 <p align="center">
-  <img src="./Abstract%20Chevron%20Mosaic%20in%20Navy%20and%20Orange.png" width="100%" alt="Navy and orange geometric mosaic" />
+  <img src="./header.svg" width="100%" alt="Samhith: first-year CS, Kaggle, agents, quant" />
 </p>
-
 
 # Hi, I'm Samhith 👋
 
