@@ -9,8 +9,8 @@ First-year CS student (electronics background) in Bengaluru. I build things end 
 
 ## What I'm working on
 
-- 🤖 **Agents on Kaggle**: a coding agent for the Gemma 4 Developer Agent competition and a Pokémon TCG battle agent
-- 🔎 **Log diagnostics MCP server**: an arXiv-style write-up on diagnosing failed log submissions with rarity-gated LLM routing
+- 🤖 **AI and Agents**: a coding agent which can navigate codebases for the Gemma 4 Developer Agent competition and a Pokémon TCG battle agent
+- 🔎 **Log diagnostics MCP server**: an MCP server diagnosing failed log submissions with rarity-gated LLM routing
 - 📈 **Markets & quant**: alpha research on WorldQuant BRAIN, and the Explaining Markets earnings-prediction challenge
 
 ## Selected projects
@@ -18,7 +18,7 @@ First-year CS student (electronics background) in Bengaluru. I build things end 
 | Project | What it is | Stack |
 |---|---|---|
 | [log-diagnostics-mcp](https://github.com/samhithnadig/Rarity-Gated-LLM-Routing-for-Automated-Log-Diagnostics) | MCP server that diagnoses failed log submissions | Python, MCP |
-| [video-clipper]([https://github.com/samhithnadig/REPO_NAME](https://github.com/samhithnadig/solicio)) | Video clipping tool | REPO_STACK |
+| [video-clipper](https://github.com/samhithnadig/solicio) | Video clipping tool |Python,Gemini Api,ytdlp|
 
 ## Toolbox
 
