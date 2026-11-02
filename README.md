@@ -1,12 +1,6 @@
 <!-- Animated generative-art header -->
-
 <p align="center">
-  <img
-    src="<img width="1637" height="608" alt="image" src="https://github.com/user-attachments/assets/9a624c5c-1f7d-4c4d-9c95-ed03a2ac4866" />
-"
-    width="100%"
-    alt="Generative CSS doodle banner"
-  />
+  <img src="./pattern.png" width="100%" alt="Geometric pattern" />
 </p>
 
 
