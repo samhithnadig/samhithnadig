@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <script src="https://unpkg.com/css-doodle@0.40.1/css-doodle.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background: #0d1117;
+      overflow: hidden;
+    }
+
+    css-doodle {
+      width: 100vw;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+
+<css-doodle>
+  @grid: 1x2400 / 100% auto (16/9);
+  font: 1.6vmin monospace;
+  color: #999;
+  @content: @p('O', 'o');
+
+  @random(.05) {
+    @content: '⬮';
+    color: @p(#d15c49, #372f96);
+  }
+
+  @place: @plot.scatter(
+    scale: .061 .065;
+    -x: 1.81(11cos(.6t) + cos(55t) - 2.8);
+    -y: 2.5(11sin(9.03t) - sin(77t)) + 16;
+  );
+</css-doodle>
+
+</body>
+</html>
